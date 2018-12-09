@@ -58,8 +58,10 @@
     <Compile Include="AssemblyInfo.fs" />
     <Content Include="packages.config" />
     <Compile Include="FizzBuzz.fs" />
+    <Compile Include="PrimeNumber.fs" />
     <Compile Include="Tests\UnitTestingSamples.fs" />
     <Compile Include="Tests\FizzBuzzTest.fs" />
+    <Compile Include="Tests\PrimeNumberTest.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
